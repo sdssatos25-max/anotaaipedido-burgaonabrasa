@@ -1,0 +1,384 @@
+Uri: https://anotarpedido.online/burgaodequebrada/
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\index.htm
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/images/duplo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\images\duplo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/images/logo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/js/jquery.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoduplo/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoduplo\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/images/alice.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\images\alice.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/images/logo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/js/jquery.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaoespecial/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaoespecial\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/images/logo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/images/triplo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\images\triplo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/js/jquery.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/burgaotriplo/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\burgaotriplo\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/images/familia.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\images\familia.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/images/logo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/js/jquery.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combobanquetedacasa/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combobanquetedacasa\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/images/casal.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\images\casal.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/js/jquery.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/combocasalraiz/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\combocasalraiz\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/images/individual.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\images\individual.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/images/logo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\js\deliveryProduto.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\js\jquery-mask.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/js/jquery.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/comboclassico/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\comboclassico\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/css/delivry.css
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\css\delivry.css
+Content Type: text/css
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/alice.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\alice.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/casal.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\casal.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/cover.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\cover.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/duplo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\duplo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/familia.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\familia.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/individual.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\individual.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/logo2.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\logo2.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r1.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r1.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r10.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r10.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r11.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r11.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r12.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r12.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r2.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r2.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r3.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r3.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r4.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r4.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r5.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r5.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r6.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r6.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r7.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r7.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r8.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r8.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/r9.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\r9.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/triplo.jpg
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\triplo.jpg
+Content Type: image/jpeg
+
+Uri: https://anotarpedido.online/burgaodequebrada/images/verificado.png
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\images\verificado.png
+Content Type: image/png
+
+Uri: https://anotarpedido.online/burgaodequebrada/index.html
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\index.html
+Content Type: text/html
+
+Uri: https://anotarpedido.online/burgaodequebrada/js/all.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/js/delivry.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\js\delivry.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/js/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://anotarpedido.online/burgaodequebrada/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\burgaodequebrada\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\anotarpedido.online\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\anotarpedido.online\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&amp;display=swap
+File Name: C:\Downloaded Web Sites\anotarpedido.online\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\anotarpedido.online\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\anotarpedido.online\s\materialicons\v145\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\anotarpedido.online\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\anotarpedido.online\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\anotarpedido.online\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
